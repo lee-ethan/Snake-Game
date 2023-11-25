@@ -1,2 +1,2 @@
 # Snake-Game
-Snake Game project
+Snake Game project run through Pygame. 
